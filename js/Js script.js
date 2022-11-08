@@ -8,6 +8,7 @@ function checkAnswer(event){
 
         if (textValue == 'Ohio'){
             //whatever you want
+
             console.log('o=OH IO')
         }
         else if (textValue == '19'){
@@ -16,5 +17,4 @@ function checkAnswer(event){
     }
 
 }
-
 

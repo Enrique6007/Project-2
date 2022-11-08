@@ -6,8 +6,9 @@ function checkAnswer(event){
         document.getElementById('textInput').value = ''
         console.log(textValue)
 
-        if (textValue == 'Ohio'){
+        if (textValue == 'Russia'){
             //whatever you want
+
             console.log('o=OH IO')
         }
         else if (textValue == '19'){
@@ -16,5 +17,3 @@ function checkAnswer(event){
     }
 
 }
-
-
